@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @adamhlomgern
+- 👋 Hi, I’m @adamhlomgern at @Bearbetar
 - 👀 I’m interested in hiking, music, and personal development.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently developing Shopify themes.
